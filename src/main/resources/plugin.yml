@@ -1,0 +1,10 @@
+name: TeachingMinecraftStuff
+version: '${project.version}'
+main: moe.quill.teachingminecraftstuff.TeachingMinecraftStuff
+api-version: 1.17
+
+commands:
+  gm:
+    description: changes your game mode
+  lg:
+    description: Change gravity
